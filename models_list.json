@@ -1,0 +1,6740 @@
+{
+"models":[
+ {
+  "model": "Asus PadFone Infinity",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus PadFone Infinity 2",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus PadFone mini",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus PadFone E",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus PadFone Infinity Lite",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 5 (2014)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 4 (2014)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 6 (2014)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus PadFone S\/X",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 4.5 (2014)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 5 (2014)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus PadFone X mini",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus Pegasus (X002)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 5 (2015)",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 2",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 3",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 4",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max Plus M1",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max M1",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max Pro M1",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 5",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Live L1",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Lite L1",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max M2",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max Pro M2",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max Shot",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Max Plus M2",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone Live L2",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 6",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone II",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone 3\/Strix",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 7",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone 5\/Pro\/Ultimate",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 8\/Flip",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus Smartphone for Snapdragon Insiders",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone 5s\/Pro",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone 6\/Pro",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 9",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ROG Phone 6D\/Ultimate",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone 7\/Ultimate",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 10",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "ROG Phone 8 Pro\/Pro Edition",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Asus ZenFone 11 Ultra",
+  "manufacturer": "Asus"
+ },
+ {
+  "model": "Balmuda Phone",
+  "manufacturer": "Balmuda"
+ },
+ {
+  "model": "BlackBerry Priv",
+  "manufacturer": "BlackBerry Limited"
+ },
+ {
+  "model": "BlackBerry DTEK50",
+  "manufacturer": "BlackBerry Limited"
+ },
+ {
+  "model": "BlackBerry DTEK60",
+  "manufacturer": "BlackBerry Limited"
+ },
+ {
+  "model": "BlackBerry Aurora",
+  "manufacturer": "BlackBerry Mobile"
+ },
+ {
+  "model": "BlackBerry KeyOne",
+  "manufacturer": "BlackBerry Mobile"
+ },
+ {
+  "model": "BlackBerry Motion",
+  "manufacturer": "BlackBerry Mobile"
+ },
+ {
+  "model": "BlackBerry Key2",
+  "manufacturer": "BlackBerry Mobile"
+ },
+ {
+  "model": "BlackBerry Evolve\/X",
+  "manufacturer": "BlackBerry Mobile"
+ },
+ {
+  "model": "BlackBerry Key2 LE",
+  "manufacturer": "BlackBerry Mobile"
+ },
+ {
+  "model": "Black Shark",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark Helo",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 2 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 3\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 3S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 4\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 4S\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Black Shark 5\/Pro\/RS",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "BoringPhone",
+  "manufacturer": "BoringPhone"
+ },
+ {
+  "model": "CAT S22 Flip",
+  "manufacturer": "CAT"
+ },
+ {
+  "model": "CAT S62 Pro",
+  "manufacturer": "CAT"
+ },
+ {
+  "model": "Cherry Mobile Flare S8",
+  "manufacturer": "Cherry Mobile"
+ },
+ {
+  "model": "Cherry Mobile Flare S8 Deluxe",
+  "manufacturer": "Cherry Mobile"
+ },
+ {
+  "model": "Cherry Mobile Flare S8 Pro",
+  "manufacturer": "Cherry Mobile"
+ },
+ {
+  "model": "Cherry Mobile Flare S8 Plus",
+  "manufacturer": "Cherry Mobile"
+ },
+ {
+  "model": "Cherry Mobile Flare S8 Lite",
+  "manufacturer": "Cherry Mobile"
+ },
+ {
+  "model": "Casio G'zOne Commando",
+  "manufacturer": "NEC, Casio and Hitachi"
+ },
+ {
+  "model": "Dior Phone Touch\/Dior Revires",
+  "manufacturer": "Dior"
+ },
+ {
+  "model": "Essential PH-1",
+  "manufacturer": "Essential Products"
+ },
+ {
+  "model": "Eye",
+  "manufacturer": "ESTI"
+ },
+ {
+  "model": "Fairphone 1",
+  "manufacturer": "FairPhone"
+ },
+ {
+  "model": "Fairphone 2",
+  "manufacturer": "FairPhone"
+ },
+ {
+  "model": "Fairphone 3",
+  "manufacturer": "FairPhone"
+ },
+ {
+  "model": "Fairphone 3+",
+  "manufacturer": "FairPhone"
+ },
+ {
+  "model": "Fairphone 4",
+  "manufacturer": "FairPhone"
+ },
+ {
+  "model": "Fairphone 5",
+  "manufacturer": "FairPhone"
+ },
+ {
+  "model": "Freedom Phone",
+  "manufacturer": "Freedom Phone"
+ },
+ {
+  "model": "Geeksphone One",
+  "manufacturer": "Geeksphone"
+ },
+ {
+  "model": "Geeksphone Revolution",
+  "manufacturer": "Geeksphone"
+ },
+ {
+  "model": "Blackphone",
+  "manufacturer": "Geeksphone & Silent Circle"
+ },
+ {
+  "model": "Garmin Nüvifone A50\/Garminfone",
+  "manufacturer": "Garmin"
+ },
+ {
+  "model": "Garmin Nüvifone A10",
+  "manufacturer": "Garmin"
+ },
+ {
+  "model": "Goophone i5",
+  "manufacturer": "Goophone"
+ },
+ {
+  "model": "Goophone i5S",
+  "manufacturer": "Goophone"
+ },
+ {
+  "model": "Goophone i5C",
+  "manufacturer": "Goophone"
+ },
+ {
+  "model": "Goophone i6",
+  "manufacturer": "Goophone"
+ },
+ {
+  "model": "Goophone X",
+  "manufacturer": "Goophone"
+ },
+ {
+  "model": "Goophone 12 Pro",
+  "manufacturer": "Goophone"
+ },
+ {
+  "model": "HTC Dream",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Magic",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Hero",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Tattoo",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Legend",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Droid Incredible",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Aria",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Evo 4G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Evo 4G+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire HD",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire Z",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Gratia",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Evo Shift 4G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Inspire 4G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Incredible S",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC ThunderBolt",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire S",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Merge",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Sensation",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire S",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC ChaCha",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Salsa",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Evo 3D",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Amaze 4G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Explorer",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Sensation XE",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Rhyme",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Raider 4G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Evo Design 4G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Sensation XL",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Rezound",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One S",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One V",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One X\/XL",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Evo 4G LTE",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One S C2",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire C",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire V",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Droid Incredible 4G LTE",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire VC",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire XC",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One XC",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC J",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire VT",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire X",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One VX",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One X+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire SV",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 400",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One SV",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Butterfly",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One (M7)",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC First",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire L\/P\/Q",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire U",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 600",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 200",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Butterfly S",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One Mini",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 500",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One Max",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 601",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 300",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 601 dual sim",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 700",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 501",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 816",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One (M8)",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 310",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 610",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 816 dual sim",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One Mini 2",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 210",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 616",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One (E8)",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 516",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One Remix",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Butterfly 2",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 510",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 820q",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 612",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One (M8 Eye)",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 816G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 820",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire Eye",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 620\/G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 320",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 526G+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 826",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 626",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 820s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 626G+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One M9",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One E9\/+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One M8s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One M9+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 326G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 820G+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One ME",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 626s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 526",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 626 (USA)",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One M9+ Supreme Camera Edition",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Butterfly 3",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One E9s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One A9",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 520",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 728",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 828",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One M9s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One X9",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 530",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 825",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC 10",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 830",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One M9 Prime Camera",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 630",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC 10 Lifestyle",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One S9",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 628",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 625",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 10 Lifestyle",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 728 Ultra",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One A9s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC 10 evo",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 10 Pro",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 650",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U Play",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U Ultra",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U11",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC One X10",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U11+\/Life",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U11 EYEs",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U12+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U12 life",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 12\/12+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Exodus 1",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 12s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 19+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U19e",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire X",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Exodus 1s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 19s",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire R70",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 20 Pro",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E2",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U20 5G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 20+",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 21 Pro 5G",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E3",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E2 Plus",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Desire 22 Pro",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E Plus",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E3 lite",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E2 Play",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U23 Pro",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U23",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC Wildfire E star",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC U24 Pro",
+  "manufacturer": "HTC"
+ },
+ {
+  "model": "HTC\/Google Sooner",
+  "manufacturer": "HTC\/Google"
+ },
+ {
+  "model": "Honor U8860",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 2",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 3",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 3C",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 3X",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 3X Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 3C 4G",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 6",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 3C Play",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 4 Play",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Holly",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 4X",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 6 Plus",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 4C",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Bee",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 7",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 7i",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 5X",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Holly 2 Plus",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 5c",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor V8",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 5A",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Note 8",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Holly 3",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 6X",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Magic",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8 Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 6A",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 6C Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 7X",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor V10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9 Lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 7A",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 7C",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 7S",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9N",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Play",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Note 10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8X\/Max",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8C",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Magic 2\/3D",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 10 Lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor V20",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Play 8A",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8A Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20 lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20i",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20 Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9X (China)",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9X Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Play 3\/3e",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20S",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20 lite (China)",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9X",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor V30\/30 Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8A Prime",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Play 9A",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 30S",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Play 4T\/Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8A 2020",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 20e",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 30\/Pro\/Pro+",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9X Lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 9C\/9S\/9A",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor X10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 8S 2020",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor Play4\/Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 30 Lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor X10 Max",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 30i",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor 10X Lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Honor V40",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor V40 Lite",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Play 5T Youth",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Play 20",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Play 5",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor 50\/Pro",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor 50 SE",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor X20 SE",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Play 5T Pro",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Magic3\/Pro\/Pro+",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor X20",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Play 5 Youth",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor 50 Lite",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor X30 Max\/X30i",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor 60\/Pro",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor X30",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Honor Play 30 Plus",
+  "manufacturer": "Honor"
+ },
+ {
+  "model": "Huawei U8230",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei U8100",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei IDEOS",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei IDEOS X5",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Sonic",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend P1",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei STREAM X GL07S",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend Mate",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend P2",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend P6",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend Mate 2 4G",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend P7",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Enjoy 7 Plus",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Ascend Mate 7",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P8",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate S",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 8",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P9",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova\/Plus",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 9",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 2\/Plus",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 10 Lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P20",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 3i\/P Smart+",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 3",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 20",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 4",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 4e",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P30",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P30 lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 5\/5i\/Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 5i Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 5T",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 30",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 5z",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 6\/5G\/SE",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Y7p",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 7i",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P40 lite",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P40 lite E",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P40",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 7\/Pro\/SE",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P40 lite 5G",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 7 SE 5G Youth",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 40",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 8 SE",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 8 5G\/Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate X2",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 8 Pro 4G",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 8i",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 8 SE Youth",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P50\/Pro",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Enjoy 20e",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 9",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova Y60",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei P50 Pocket",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 9 SE",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 9 SE 5G",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova Y70\/Plus",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova Y90",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate Xs 2",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 10",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Mate 50\/Pro\/RS",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova 10 SE",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Huawei Nova Y61",
+  "manufacturer": "Huawei"
+ },
+ {
+  "model": "Intel AZ210",
+  "manufacturer": "Intel"
+ },
+ {
+  "model": "iQOO 9\/SE",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "iQOO Z6 Lite 5G",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Jupiter IO 3",
+  "manufacturer": "Vaporcade"
+ },
+ {
+  "model": "Kodak Ektra (phone)",
+  "manufacturer": "Kodak"
+ },
+ {
+  "model": "Karbonn a15",
+  "manufacturer": "Karbonn"
+ },
+ {
+  "model": "Leitz Phone 1",
+  "manufacturer": "Leica"
+ },
+ {
+  "model": "Leitz Phone 2",
+  "manufacturer": "Leica"
+ },
+ {
+  "model": "Leitz Phone 3",
+  "manufacturer": "Leica"
+ },
+ {
+  "model": "Lenovo P780",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe Z",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo A526",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe Z2 Pro",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe Z2",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "ZUK Z1",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe P1",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe K4 Note",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo K5 Note",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe P1 Turbo",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Vibe K5\/Plus",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "ZUK Z2",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Phab 2\/Plus\/Pro",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo K6\/Power\/Note",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo P2",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Z2 Plus",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Legion Pro",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Legion Duel",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Legion 2 Pro",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Legion Duel 2",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Legion Y90",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "Lenovo Legion Y70",
+  "manufacturer": "Lenovo"
+ },
+ {
+  "model": "LG GW620",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus Q",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus One",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus Chic",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus 2X",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus Black",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus 3D",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus Slider",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus LTE (LU6200)",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus 4X HD",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus LTE (SU640)",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus L9",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus Vu",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Optimus G",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G2",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G Flex",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G Pro Lite",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Gx",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G2 Mini",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G Pro 2",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G3",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G3 Stylus",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G Flex 2",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G4",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V10",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K10",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G5",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V20",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K10 (2017)",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G6",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V30",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G7 ThinQ",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V35 ThinQ",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K10 (2018)",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V40 ThinQ",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG G8 ThinQ",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V50 ThinQ",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Stylo 5",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG W10\/W30",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG W30 Pro",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG W10 Alpha",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Q51",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG V60 ThinQ",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Velvet",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Stylo 6",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Q61",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K31",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Q92 5G",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K22",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K42\/K71",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Q31",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Wing",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG Q52",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K52\/K62",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG K92 5G",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG W31\/+",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "LG W41\/+\/Pro",
+  "manufacturer": "LG Electronics"
+ },
+ {
+  "model": "Marshall London",
+  "manufacturer": "Marshall Amplification"
+ },
+ {
+  "model": "Meizu M9",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX 4-core",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX2",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX3",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX4",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX4 Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M1\/1 Note",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M2 Note",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX5",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M2",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu PRO 5",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M1 Metal",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX5e",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M3 Note",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu PRO 6",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M3",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M3s",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu MX6",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M3E",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu U10\/20",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M3 Max",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M5",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu PRO 6s",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M3x",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu PRO 6 Plus",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M5 Note",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M5s",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu E2",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M5c",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu PRO 7\/Plus",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M6 Note",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M6",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M6s",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu E3",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 15\/Pro\/Lite",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M8c",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M6T",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 16th\/Plus",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 16X",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu V8\/Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu X8",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu Note 8",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu C9\/Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu Note 9",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu M10",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 16s",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 16Xs",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 16s Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 16T",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 17\/Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 18\/Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 18s\/Pro",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Meizu 18X",
+  "manufacturer": "Meizu"
+ },
+ {
+  "model": "Mode Phone MP1",
+  "manufacturer": "Mode"
+ },
+ {
+  "model": "Motorola Cliq",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Droid",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Backflip",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Flipout",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Droid X",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Milestone XT720",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Charm",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Droid 2",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Defy",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Bravo",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Droid Pro",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Flipside",
+  "manufacturer": "Motorola"
+ },
+ {
+  "model": "Motorola Atrix 4G",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid 3",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Bionic",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Atrix 2",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Razr",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid 4",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Atrix HD",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Photon Q",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Razr M",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Razr HD",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Maxx",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Mini",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto X (1st generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G (1st generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E (1st generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G (2nd generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto X (2nd generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Droid Turbo",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E (2nd generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G (3rd generation)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto X Play",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto X Style",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G4",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E3",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z Play",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G5",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto C",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E4",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z2 Play",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z2 Force",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto X4",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E5",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G6",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z3 Play",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z3",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One\/One Power",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G7",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Vision",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto Z4",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Zoom",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G8 Plus",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Macro",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Action",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Razr (4G)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Hyper",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G8 Power",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Power\/Stylus",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G8",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E6s (2020)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G8 Power Lite",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Edge\/Edge+",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Pro",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E (2020)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Fast",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Fusion+",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola One Fusion",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G 5G Plus",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G9 Play",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G9 Plus",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E7 Plus",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Razr (5G)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G9 Power",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G 5G",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E7",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Play (2021)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Power (2021)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Stylus (2021)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E6i",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto E7 Power",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G10",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G30",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G10 Power",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G50",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G100",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G60",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G40 Fusion",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G20",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G Stylus 5G",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Defy (2021)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G50 5G",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Moto G60S",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Edge 20",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "Motorola Edge (2021)",
+  "manufacturer": "Motorola Mobility"
+ },
+ {
+  "model": "MyPhone myA1 Plus",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myA17",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myA18",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myP1",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myG1",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myXl1",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myXl1 Pro",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myXl1 Plus",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myX12",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "MyPhone myXl3",
+  "manufacturer": "MyPhone"
+ },
+ {
+  "model": "Nextbit Robin",
+  "manufacturer": "Nextbit"
+ },
+ {
+  "model": "Nexus One",
+  "manufacturer": "HTC\/Google"
+ },
+ {
+  "model": "Nexus S",
+  "manufacturer": "Samsung Electronics\/Google"
+ },
+ {
+  "model": "Galaxy Nexus",
+  "manufacturer": "Samsung Electronics\/Google"
+ },
+ {
+  "model": "Nexus 4",
+  "manufacturer": "LG Electronics\/Google"
+ },
+ {
+  "model": "Nexus 5",
+  "manufacturer": "LG Electronics\/Google"
+ },
+ {
+  "model": "Nexus 6",
+  "manufacturer": "Motorola Mobility\/Google"
+ },
+ {
+  "model": "Nexus 5X",
+  "manufacturer": "LG Electronics\/Google"
+ },
+ {
+  "model": "Nexus 6P",
+  "manufacturer": "Huawei\/Google"
+ },
+ {
+  "model": "Nokia X",
+  "manufacturer": "Nokia"
+ },
+ {
+  "model": "Nokia XL",
+  "manufacturer": "Microsoft Mobile"
+ },
+ {
+  "model": "Nokia X2",
+  "manufacturer": "Microsoft Mobile"
+ },
+ {
+  "model": "Nokia 6",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 3",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 5",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 7",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 8",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 7 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 6.1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 8 Sirocco",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 3.1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 5.1 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 2.1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 5.1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 6.1 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 3.1 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 7.1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 8.1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 9 PureView",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 1 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 4.2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 3.2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 2.2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 6.2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 7.2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 2.3",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C1",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C2",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 1.3",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 5.3",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C2 Tava",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C5 Endi",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C2 Tennen",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C3",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 2.4",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 3.4",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C1 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 5.4",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia 1.4",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C20",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G10",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G20",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia X20",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C10",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia X10",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C01 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C20 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C30",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia XR20",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G50",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G300",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia X100",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G21",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G11",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C2 2nd Edition",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C21 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C21",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C100\/C200",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G11 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G400",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C31",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia X30",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C12",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G22",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C22\/C32",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C12 Pro",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C02",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C12 Plus",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia XR21",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia C110\/C300",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G42",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G310",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nokia G210",
+  "manufacturer": "HMD Global"
+ },
+ {
+  "model": "Nothing Phone 1",
+  "manufacturer": "Nothing"
+ },
+ {
+  "model": "Nothing Phone 2",
+  "manufacturer": "Nothing"
+ },
+ {
+  "model": "Nothing Phone 2a",
+  "manufacturer": "Nothing"
+ },
+ {
+  "model": "Nubia Z5",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z5S",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z5S mini NX403A",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia X6",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z7\/Max\/mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z5S mini NX405H",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z9 Max",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z9 mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z9",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia My Prague",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Prague S",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z11 mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z11 Max",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z11",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia N1",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z11 mini S",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia M2\/lite",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia N2",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia N1 lite",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z17 mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z17",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z17 lite",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z17 miniS",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z17s",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia N3",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia V18",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z18 mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z18",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia X",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic Mars",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 3",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z20",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 3s",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Play",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 5G Lite",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 5S",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 6\/Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z30 Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 6R",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 6s\/Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 7\/Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z40 Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 7S\/Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z40S Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z50",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 8 Pro\/Pro+",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z50 Ultra",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 8s Pro\/Pro+",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 8s Pro\/Pro+",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z50S Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Neo",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Red Magic 9 Pro\/Pro+",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Z60 Ultra",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Flip",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Music",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Neo 2",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "Nubia Focus\/Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "OnePlus One",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 2",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus X",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 3",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 3T",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 5",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 5T",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 6",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 6T",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 7\/Pro",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 7T\/Pro",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 8\/Pro",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus Nord",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 8T",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus Nord N10 5G",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus Nord N100",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 9\/Pro",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus Nord CE 5G",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus Nord N200 5G",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus Nord 2 5G",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "OnePlus 10 Pro",
+  "manufacturer": "OnePlus"
+ },
+ {
+  "model": "Oppo Finder",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find 5",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo N1",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find 5 Mini",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Neo",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find 7\/7a",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Joy",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo N1 mini",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Neo 3\/5",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo N3",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Joy Plus",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Neo 5s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo R7",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Neo 5 (2015)",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Joy 3",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Neo 7",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F1",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo R11",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F7",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo R15 Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F9",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo R17",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno2",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A9 (2020)",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno3 5G\/Pro 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno3 Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X2\/Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno3",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Ace2",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A12",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A52",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A72\/A92s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X2 Lite\/Neo",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A92",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno4 5G\/Pro 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A12s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A72 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno4\/Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F17\/Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno4 SE",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno4 Lite",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno4 Z 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A93\/Reno4 F",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A73",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A73 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno5 5G\/Pro 5G\/Pro+ 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno5",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X3\/Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X3 Neo\/Lite",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A94",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F19 Pro\/Pro+",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno5 Lite\/F",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno5 Z",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F19",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A35",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A94 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A95 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A54 5G\/A74 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A74",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A53s 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo K9",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno6 5G\/Pro\/Pro+",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A16",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno6",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A16s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno6 Z",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno6 Pro (Snapdragon)",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo K9 Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo F19s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A55",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo K9s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A56 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A54s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A16k",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A95",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno7 (China)\/Pro\/SE",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Frind N",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo K9x",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A11s",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A36",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A96 5G",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno6 Lite",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno7",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A76",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X5\/Pro",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Find X5 Lite",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo Reno7 Z",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A16e",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo A96",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo K10",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "Oppo K12x",
+  "manufacturer": "Oppo"
+ },
+ {
+  "model": "OSOM OV1",
+  "manufacturer": "OSOM"
+ },
+ {
+  "model": "Palm",
+  "manufacturer": "Palm, Inc."
+ },
+ {
+  "model": "Panasonic P100",
+  "manufacturer": "Panasonic"
+ },
+ {
+  "model": "Pantech Pocket",
+  "manufacturer": "Pantech or AT&T"
+ },
+ {
+  "model": "Pepsi P1\/P1S",
+  "manufacturer": "Pepsi"
+ },
+ {
+  "model": "Pixel\/XL",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 2\/XL",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 3\/XL",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 3a\/XL",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 4\/XL",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 4a",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 4a (5G)",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 5",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 5a",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 6\/Pro",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 6a",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 7\/Pro",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 7a",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel Fold",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 8\/Pro",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 8a",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Pixel 9\/Pro\/Pro XL",
+  "manufacturer": "Google"
+ },
+ {
+  "model": "Xiaomi Pocophone F1",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F2 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M2 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X3 NFC",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X3 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M2 Reloaded",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M3 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F3 GT",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X3 GT",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C31",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M4 Pro 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M4 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X4 Pro 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F4 GT",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M4 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C40",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X4 GT",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F4",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M5\/M5s",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C50",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X5\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C55",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C51",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F5\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M6 Pro 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C65",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M6 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M6 Pro\/X6",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X6 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO X6 Neo",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO C61",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO F6\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "POCO M6",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Razer Phone",
+  "manufacturer": "Razer Inc."
+ },
+ {
+  "model": "Razer Phone 2",
+  "manufacturer": "Razer Inc."
+ },
+ {
+  "model": "Realme 1",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 2",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C1",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 2 Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme U1",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 3",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C2",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 3 Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 3i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 5",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 5 Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme XT",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X2",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X2 Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 5i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X50",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C3",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X50 Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 6\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 6i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X50 Pro Player",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X3 SuperZoom",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Narzo",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C3i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X3",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C11",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C15",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V5",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C12",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V3",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X7\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 7 (Asia)\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 7i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C17",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Narzo 20\/Pro\/20A",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 7 (Global)",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q2\/Pro\/2i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 7 5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 7i (Global)",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V15",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C20",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X7 (India)",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V11",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Narzo 30 Pro\/30A",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C21",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C25",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 8\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V13",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X7 Pro Ultra",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 8 5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q3\/Pro\/3i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C20A",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 30",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo Flash",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q3 Pro Carnival",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 30 5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme X7 Max",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C25s",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C11 2021",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C21Y",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Master Edition",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Explorer Master Edition",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 8i\/8s 5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C25Y",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo2",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V11s",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 50A\/50i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q3s",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo2T",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q3t",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT2\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 9i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C35",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 9 Pro\/Pro+",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 50",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V25",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 9 5G (India)\/5G Speed Edition",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 50A Prime",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo3\/150W",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 9",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q5i",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme Q5\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V23",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 50 5G\/Pro",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 9 5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V20",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo3T",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C30",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo 50i Prime",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT2 Explorer Master Edition",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 9i 5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C33",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C30s",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 10\/5G",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 10 Pro\/Pro+",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 10s",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo5\/240W",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme C55",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme V30\/V30t",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme 10T",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT Neo5 SE",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme narzo N55",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Realme GT3",
+  "manufacturer": "Realme"
+ },
+ {
+  "model": "Redmi 1",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 1S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note (3G)",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 4G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 2A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 2 Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 2 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 3 (MTK)",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 3\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 3 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 3S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 3X",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 3S Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 4 (MTK)",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 4\/Pro\/Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 4A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 4\/4X",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 4X",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 5A\/Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 5A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 5\/Plus",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 5 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 5",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi S2\/Y2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 6\/6A\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 6 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 7",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Go",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 7 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 7",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Y3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 7A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K20\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 8\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 8A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 8",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 8T",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K30\/5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 8A Dual",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 9 Pro (India)\/Pro Max\/9S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K30 Pro\/Pro Zoom",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 9\/Pro (Global)",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10X\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9C",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9 Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K30 Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K30S Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 9 4G\/5G\/Pro 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9 Power",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9T",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 9T",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K40\/Pro\/Pro+",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 10\/Pro\/Pro Max",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 10S\/5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K40 Gaming",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 8 2021",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 10 Pro 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 10T",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 10 JE",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10 Prime",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9 Activ",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 9A Sport\/9i Sport",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 10 Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11 5G\/Pro (China)\/Pro+ 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11 4G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11T",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11\/11S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11 Pro\/11 Pro 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K50G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11E",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11E Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11 Pro+ (India)",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10 (India)",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10C",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K40S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K50\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11S 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10 Power",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10 2022",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10 Prime 2022",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11SE",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11T Pro\/Pro+",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 10 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K50i",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K50 Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11 SE",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi A1\/+",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 11 Prime\/Prime 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 11R",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12 5G (China)\/Pro 5G\/Pro+\/Discovery Edition",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12 Pro Speed Edition",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K60E",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K60\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 12C",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi A2\/+",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12 Turbo",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12R Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12T Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 12",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 12R",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 12 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K60 Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 13 5G (China)\/Pro 5G\/Pro+",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 13C",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 13R Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi K70\/Pro\/K70E",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 13C 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 12R\/13R",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 13\/5G\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi A3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Turbo 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi Note 13R",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi A3x",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Redmi 13",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Samsung Galaxy",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S1",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Y DUOS",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S3",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Beam",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover 2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S4",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S4 Zoom",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 3",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 3 Neo",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S5",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Beam 2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Alpha",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Grand Prime",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 4",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note Edge",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A5 Duos",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A5",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A3\/Duos",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy E7",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A7\/Duos",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S6\/Edge",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover 3",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A8\/Duos",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 5",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S6 Edge+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A3 (2016)\/A5 (2016)\/A7 (2016)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A9 (2016)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy J1 (2016)\/Express 3\/Amp 2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S7\/Edge",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover 3 G389F",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A9 Pro (2016)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy C7",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 7",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A8 (2016)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy C9 Pro",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A3 (2017)\/A5 (2017)\/A7 (2017)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover 4",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S8\/+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note FE",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 8",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy C8",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy C5",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A8 (2018)\/+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S9\/+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A6\/+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A8 Star",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 9",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A7 (2018)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A9 (2018)",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A6s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A8s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A10",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A30",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A50",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S10\/e\/+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S10 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A20\/A40",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A2 Core",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A20e",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A70",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A80",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A60",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover 4s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A10e",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 10\/+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A10s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A30s\/A50s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A90 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A70s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Z Fold",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A20s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A51\/A71",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A01",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover Pro",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Z Flip",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S20\/+\/Ultra",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover FieldPro",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A31",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A11",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A41",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A51 5G\/A71 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A21",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A21s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A71 5G UW",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Z Flip 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Note 20\/Ultra",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Z Fold 2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A01 Core",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A51 5G UW",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A42 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S20 FE",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy F41",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy M21s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A12",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A02\/M02",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A02s\/M02s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A32 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S21",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S21+",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy S21 Ultra",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A02",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy M02",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy M12",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy F62",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy M62",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A32",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Xcover 5",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A52\/A52 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A72",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy F02s",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy F12",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Quantum 2",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy F52 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy M32",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy A22\/A22 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy Z Fold 3\/Z Flip 3",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Samsung Galaxy M52 5G",
+  "manufacturer": "Samsung Electronics"
+ },
+ {
+  "model": "Sony Ericsson Xperia X10",
+  "manufacturer": "Sony Ericsson"
+ },
+ {
+  "model": "Sony Ericsson Xperia X8",
+  "manufacturer": "Sony Ericsson"
+ },
+ {
+  "model": "Sony Ericsson Xperia Play",
+  "manufacturer": "Sony Ericsson"
+ },
+ {
+  "model": "Sony Ericsson Xperia pro",
+  "manufacturer": "Sony Ericsson"
+ },
+ {
+  "model": "Sony Xperia Z",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z Ultra",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z1",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z1 Compact",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z2",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z3\/Compact",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z4",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z5\/Compact",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Z5 Premium",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia X\/Performance",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA Ultra",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia X Compact",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XZ",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XZs\/Premium",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA1",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA1 Ultra",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia L1",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XZ1\/Compact",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA1 Plus",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia L2",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA2\/Ultra",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XZ2\/Compact",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XZ2 Premium",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XZ3",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia XA2 Plus",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 10\/10 Plus",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia L3",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 1",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 5",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 8",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia L4",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 1 II",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 10 II",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 5 II",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia Pro",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 10 III",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 5 III",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Sony Xperia 1 III",
+  "manufacturer": "Sony Mobile"
+ },
+ {
+  "model": "Surface Duo",
+  "manufacturer": "Microsoft"
+ },
+ {
+  "model": "Surface Duo 2",
+  "manufacturer": "Microsoft"
+ },
+ {
+  "model": "T-Mobile G1",
+  "manufacturer": "T-Mobile"
+ },
+ {
+  "model": "TCL Plex",
+  "manufacturer": "TCL"
+ },
+ {
+  "model": "TCL 10L",
+  "manufacturer": "TCL"
+ },
+ {
+  "model": "TCL 10 Pro",
+  "manufacturer": "TCL"
+ },
+ {
+  "model": "TCL 10 SE",
+  "manufacturer": "TCL"
+ },
+ {
+  "model": "TCL 10 5G",
+  "manufacturer": "TCL"
+ },
+ {
+  "model": "TCL 10 Plus",
+  "manufacturer": "TCL"
+ },
+ {
+  "model": "Tecno Phantom 6\/Plus",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon CX",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon CX Air",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark Plus",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Phantom 8",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon CM",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark CM",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon X\/Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 2",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 11\/Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon iACE2\/2X",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 3\/Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Phantom 9",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark Go",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 4\/Air\/Lite",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 12",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 12 Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 12 Air",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 15\/Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 15 Air\/Premier",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 5",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 19",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 5 Air",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 5 Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark Power 2",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Pouvoir 4\/Pro",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 16 Premier",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 6 Air",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 6",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Camon 16",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Pova",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Spark 9",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Phantom V Fold",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Tecno Phantom V Flip",
+  "manufacturer": "Tecno Mobile"
+ },
+ {
+  "model": "Vertu Ti",
+  "manufacturer": "Vertu"
+ },
+ {
+  "model": "Vivo X1",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X3",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X3S",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X5\/Max",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X5Max+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X5Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X5Max Platinum",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V1",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V1 Max",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X6\/Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X6S\/Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V3\/Max",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X7\/Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X9\/Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V5",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V5 Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V5 Lite\/Y66",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V5s",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X9s\/Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V7+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X20\/Plus",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V7",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X20 Plus UD",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X21\/UD",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V9\/Youth",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X21i",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo NEX",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V11",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X23",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V11i",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo NEX Dual Display",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V15\/Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X27\/Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V17 Neo",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo NEX 3",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V17 Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V17",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X30\/Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo NEX 3S",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Z5",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Z6 5G",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V19",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X50 Lite",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X50\/Pro\/Pro+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V19 Neo",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V20 Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X50e",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V20 SE",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V20",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X51",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo V20 (2021)",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X60\/Pro\/Pro+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y12s",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y1s",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y20",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo V21\/V21e",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y53s",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo S10",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X70\/Pro\/Pro+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo V23e",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo V23e 5G",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y21T",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y33t",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y55 5G",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo Y75 5G",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "vivo V23\/Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo Y21a",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo Y01",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo Y21G",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X80\/Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X Note\/Fold",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X Fold+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X90\/Pro\/Pro+",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X Fold2\/Flip",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X90s",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo X100\/Pro",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo Y100i",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo Y36i",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Vivo S18\/Pro\/e",
+  "manufacturer": "Vivo"
+ },
+ {
+  "model": "Xiaomi Mi 1",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 1S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 2S\/A",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 3\/TD",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 4",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Note",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Note Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 4i",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 4c",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 4S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 5",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Max\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 5s\/Plus",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Note 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi MIX",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 5c",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 6",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Max 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 5X\/Mi A1",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Note 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi MIX 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi MIX 2S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 6X\/Mi A2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 8\/SE\/EE",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Max 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 8 Pro\/Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi MIX 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Play",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 9\/SE",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi MIX 3 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 9T",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi A3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 9T Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 9 Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 9 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Note 10\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10 Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10 Youth",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi Note 10 Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10 Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10T\/Pro\/Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 11",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10i",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 10S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 11 Pro\/Ultra\/11i",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 11 Lite\/Lite 5G",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi MIX Fold",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Mi 11X\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi MIX 4",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 11T\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 11 Lite 5G NE",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 12\/Pro\/X",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 11i\/HyperCharge",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Civi 1S",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 12 Pro Dimensity",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 12S\/Pro\/Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 12 Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi MIX Fold 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Civi 2",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 12T\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 13\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 13 Lite",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 13 Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Civi 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi MIX Fold 3",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 13T\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 14\/Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 14 Ultra",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi Civi 4 Pro",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "Xiaomi 14 Civi",
+  "manufacturer": "Xiaomi"
+ },
+ {
+  "model": "YotaPhone",
+  "manufacturer": "Yota"
+ },
+ {
+  "model": "YotaPhone 2",
+  "manufacturer": "Yota"
+ },
+ {
+  "model": "YU Yureka",
+  "manufacturer": "YU Televentures"
+ },
+ {
+  "model": "ZTE Racer",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Libra",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Racer II",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Skate",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Score",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Warp",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Avail",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE FTV Phone",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade II V880+",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Score M",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE V880E",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Kis V788",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Grand X",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Grand X IN",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade III",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Grand Era",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Warp Sequent",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Grand X LTE",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Flash",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Groove X501",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Kis III V790",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE N910",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Era",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE V887",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE V889M",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Avid 4G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Grand S",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Director",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade C V807",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade III Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade G V880G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade G2",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade V",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade Q\/Maxi\/Mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade L2",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade Vec 3G\/4G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade S6",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade G\/Lux",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade L3",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade L3 Plus",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade S6 Plus",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade Qlux 4G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade Q Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade Apex 3",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A410",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A460",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon Pro\/Lux",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade D6",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon Elite",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade S7",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade X3\/5\/9",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon Max",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade V7\/Lite",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 7",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 7 mini",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 7 Max",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 7s",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Maven 2",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A6",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon M",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade X",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A3",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Tempo Go",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade V9\/Vita",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 9 Pro",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A7 Vita",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade V10\/Vita",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 10 Pro\/5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade L8",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A3 (2019)",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A7",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A5 (2019)",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A20",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade 10 Prime",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A7 Prime",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade Max View",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 10s Pro 5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 11 4G\/5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade V 2020",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 11 SE 5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 20 5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A7s 2020",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade 20 5G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 20 4G",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE S30\/Pro\/SE",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 30 Pro\/Ultra",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade 11 Prime",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A51",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A31",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Axon 30",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A71",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade L9",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Blade A31 Plus",
+  "manufacturer": "ZTE"
+ },
+ {
+  "model": "ZTE Voyage 20 Pro",
+  "manufacturer": "ZTE"
+ }
+]
+}
